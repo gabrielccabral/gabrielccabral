@@ -6,27 +6,31 @@ Years as a photo editor at *Folha de S.Paulo*, now shooting product, food, portr
 
 ---
 
-### What I build
+## What I build
 
-**[Quadro Carrossel](https://quadro-carrossel-app.web.app)**
+### [Quadro Carrossel](https://quadro-carrossel-app.web.app)
+
 A browser tool for authoring Instagram carousels. Photo, video and text on one fluid canvas. No plugin, no design degree.
 
-**[Tinta](https://gabrielcabral.art.br/derivas/tinta/)**
+### [Tinta](https://gabrielcabral.art.br/derivas/tinta/)
+
 Feed it any font. It runs every glyph through an ink-dispersion and distress simulation, and exports a real, installable font file at the end.
 
-**[Mesa de Luz](https://clientes.gabrielcabral.art.br)**
+### [Mesa de Luz](https://clientes.gabrielcabral.art.br)
+
 Delivery and review for photo and video clients. Selects with limits, cut versions, notes in plain language.
 
-**[Derivas](https://gabrielcabral.art.br/derivas/)**
+### [Derivas](https://gabrielcabral.art.br/derivas/)
+
 The lab. Small self-contained experiments: motion template editors, depth-based image effects, typography toys. Things that exist because I wanted to see them work.
 
 ---
 
-### Elsewhere
+## Elsewhere
 
-- Portfolio: **[gabrielcabral.art.br](https://gabrielcabral.art.br)**
-- Instagram: **[@gabriel.c.cabral](https://instagram.com/gabriel.c.cabral)**
+- Portfolio &nbsp;&nbsp;[gabrielcabral.art.br](https://gabrielcabral.art.br)
+- Instagram &nbsp;&nbsp;[@gabriel.c.cabral](https://instagram.com/gabriel.c.cabral)
 
 ---
 
-Most of my repositories are private, because they are either commercial products or client work. The contribution graph above is the honest version of what I actually do.
+> Most of my repositories are private, because they are either commercial products or client work. The contribution graph above is the honest version of what I actually do.
